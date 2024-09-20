@@ -8,7 +8,7 @@ public class Day3{
     public static int myfunc(int x, int y){
         return (x + y);
     }
-    public static void main(String[] args){
+    public static void main(String... args){
 
         myfunc1("Ankit");
 
